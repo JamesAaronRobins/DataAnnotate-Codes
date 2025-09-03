@@ -1,0 +1,7 @@
+*.o
+*.mod
+*.SLURM
+*.exe
+/out
+/.vs
+/.git
